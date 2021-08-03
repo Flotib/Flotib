@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%👋!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&text=Hey!)
 
-<h1 align="center">I'm Florian, 21</h1>
+<h1 align="center">I'm Florian, 21 👋</h1>
 <h3 align="center">I enjoy web dev and design</h3>
-<h3 align="center"><a href="https://flotib.com" target="_blank">https://flotib.com</a></h3>
+<h4 align="center"><a href="https://flotib.com" target="_blank">https://flotib.com</a></h4>
 
 <h4 align="center">I do a lot of:</h4>
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
  </p>
-<h4 align="center">expert in:</h4>
+<h4 align="center">Expert in:</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="50" height="50"/>
@@ -28,4 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="50" height="50"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=flotib&color=blueviolet)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=flotib&color=blueviolet)
+</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotib&layout=compact&theme=midnight-purple" alt="flotib" /> </p>
