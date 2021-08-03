@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000f0&fontColor=ffffff&height=290&text=Hey!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a268e3&fontColor=ffffff&height=290&text=Hey!"/>
 </p>
   
 <h2 align="center">I'm Florian, 21 👋</h2>
