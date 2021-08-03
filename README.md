@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_7000f0&height=290&text=Hey!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000f0&height=290&text=Hey!"/>
 </p>
   
 <h2 align="center">I'm Florian, 21 👋</h2>
@@ -36,5 +36,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flotib&show_icons=true&theme=midnight-purple" alt="flotib"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotib&layout=compact&theme=midnight-purple" alt="flotib"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotib&layout=compact&theme=jolly" alt="flotib"/>
 </p>
