@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&text=Hey!)
-
-<h1 align="center">I'm Florian, 21 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=290&text=Hey!"/>
+</p>
+  
+<h2 align="center">I'm Florian, 21 👋</h2>
 <h3 align="center">I enjoy web dev and design</h3>
 <h4 align="center"><a href="https://flotib.com" target="_blank">https://flotib.com</a></h4>
 
@@ -29,7 +31,7 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=flotib&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=flotib&color=blueviolet" alt="flotib"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotib&layout=compact&theme=midnight-purple" alt="flotib" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotib&layout=compact&theme=midnight-purple" alt="flotib"/> </p>
