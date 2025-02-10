@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a657ff&fontColor=ffffff&height=290&text=Hey!"/>
 </p>
   
-<h2 align="center">I'm Florian, 23 👋</h2>
+<h2 align="center">I'm Florian, 24 👋</h2>
 <h3 align="center">I enjoy web dev and design</h3>
 <h4 align="center"><a href="https://flotib.com" target="_blank">https://flotib.com</a></h4>
 
